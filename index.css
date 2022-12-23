@@ -1,0 +1,291 @@
+#header{
+    margin-left: 700px;
+    font-size: 60px;
+}
+#box1{
+width: 100%;
+height: 120vh;
+border: 1px solid black;
+display: grid;
+grid-template-columns: auto auto auto auto auto ;
+
+padding: 10px;
+}
+#flag1,#flag2,#flag3,#flag4,#flag5,#flag6,#flag7,#flag8,#flag9,#flag10{
+width: 35vh;
+height: 30vh;
+border: 1px solid black;
+margin-top: 30px;
+}
+#flag1{
+width: 35vh;
+height: 30vh;
+border: 2px solid black;
+margin-top: 30px;
+
+
+}
+#saffron{
+height: 44%;
+width: 16.7vw;
+background-color: orange;
+}
+#white{
+height: 33%;
+width:16.7vw;
+background-color:white;
+
+}
+#green{
+height: 33%;
+width: 16.7vw;
+background-color: green;
+}
+#circle{
+width: 33%;
+height: 30%;
+
+border-radius: 50%;
+margin: auto;
+
+}
+#ashokchakra{
+width: 90%;
+height: 200%;
+margin-top: -10px;
+}
+#india{
+margin-left: 50px;
+}
+
+#flag2{
+width: 35vh;
+height: 30vh;
+border: 2px solid black;
+margin-top: 30px;
+/* padding: 0px; */
+
+}
+#red{
+height: 33.3%;
+width: 16.7vw;
+background-color: red;
+}
+#white1{
+height: 33.3%;
+width:16.7vw;
+background-color: white;
+
+}
+#red1{
+height: 33.3%;
+width: 16.7vw;
+background-color:red;
+}
+#Austria{
+margin-left: 50px;
+}
+#flag3{
+width: 35vh;
+height: 30vh;
+border: 1px solid black;
+margin-top: 30px;
+}
+#red2{
+height: 33.3%;
+width: 16.7vw;
+background-color: maroon;
+}
+#white2{
+height: 33.3%;
+width:16.7vw;
+background-color: white;
+
+}
+#blue{
+height: 33.3%;
+width: 16.7vw;
+background-color:blue;
+}
+#Netherlands{
+margin-left: 50px;
+}
+/* #flag4{
+display: flex;
+flex-direction: column;
+width:35vw;
+height: 30vh;
+border: 1px solid black;
+} */
+#black{
+height: 33.3%;
+width: 16.7vw;
+background-color: black;
+}
+#red3{
+height: 33.3%;
+width:16.7vw;
+background-color: red;
+
+}
+#yellow{
+height: 33.3%;
+width: 16.7vw;
+background-color:yellow;
+}
+#Germany{
+margin-left: 50px;
+}
+#sky1{
+height: 33.3%;
+width: 16.7vw;
+background-color:skyblue;
+}
+#white3{
+height: 33.3%;
+width:16.7vw;
+background-color: white;
+
+}
+#sky2{
+height: 33.3%;
+width: 16.7vw;
+background-color:skyblue;
+}
+
+#Argentina{
+margin-left: 50px;
+}
+#circle1{
+width: 33.3%;
+height: 33%;
+
+border-radius: 50%;
+margin: auto;
+
+}
+#img1{
+width: 100%;
+height: 300%;
+}
+#sky3{
+height: 33.3%;
+width: 16.7vw;
+background-color:skyblue;
+}
+#red4{
+height: 33.3%;
+width:16.7vw;
+background-color:rgb(194, 23, 23);
+
+}
+#green1{
+height: 33.3%;
+width: 16.7vw;
+background-color:green;
+}
+#Azerbaijan{
+margin-left: 50px;
+}
+#circle2{
+width: 33.3%;
+height: 33%;
+
+border-radius: 50%;
+margin: auto;
+
+}
+#img2{
+width: 100%;
+height: 300%;
+}
+#maroon{
+height: 33.3%;
+width: 16.7vw;
+background-color:rgb(192, 25, 25);
+}
+#maroon1{
+height: 33.3%;
+width:16.7vw;
+background-color: rgb(192, 25, 25);
+
+}
+#maroon2{
+height: 33.3%;
+width: 16.7vw;
+background-color:rgb(192, 25, 25);
+}
+#Vietnam{
+margin-left: 50px;
+}
+#circle3{
+width: 33.3%;
+height: 33%;
+
+border-radius: 50%;
+margin: auto;
+
+}
+#img3{
+width: 100%;
+height: 300%;
+}
+#white4{
+height: 33.3%;
+width: 16.7vw;
+background-color: white;
+}
+#blue1{
+height: 33.3%;
+width:16.7vw;
+background-color: blue;
+
+}
+#red5{
+height: 33.3%;
+width: 16.7vw;
+background-color:rgb(211, 40, 40);
+}
+#Russia{
+margin-left: 50px;
+}
+#white5{
+height: 33%;
+width: 16.7vw;
+background-color: white;
+}
+#white6{
+height: 33%;
+width:16.7vw;
+background-color:white;
+
+}
+#white7{
+height: 33%;
+width: 16.7vw;
+background-color: white;
+}
+#Japan{
+margin-left: 50px;
+margin-top: 50px;
+}
+#circle{
+width: 60%;
+height: 60%;
+
+border-radius: 50%;
+margin-top: -28px;
+/* margin: auto; */
+
+}
+img{
+width: 100%;
+height: 300%;
+}
+#image{
+width: 100%;
+height: 100%;
+}
+#France{
+margin-left: 50px;
+}
